@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Helvetica Neue", Arial, sans-serif;
+}
+h1 {
+  font-size: 45px;
+}
+.center {
+  text-align: center;
+}
+#image {
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 20px;
+  height: auto;
+  max-width: 100%;
+}
+#tribute-info {
+  max-width: 50%;
+  min-width: 90%;
+  margin: 0 auto;
+  display: block;
+  margin-top: 50px;
+}
+#main {
+  padding-top: 40px;
+  margin-top: 40px;
+  background-color: #eeeeee;
+  width: 99%;
+  display: block;
+  margin: 40 auto;
+  border-radius: 8px;
+  height: fit-content;
+}
+
+#img-div {
+  background-color: #ffffff;
+  width: 96%;
+  display: block;
+  margin: auto;
+  padding: 20px;
+}
+h1 {
+  margin-bottom: 20px;
+}
+#cabecalho {
+  margin-bottom: 20px;
+}
+li {
+  padding-bottom: 18px;
+  line-height: 1.6;
+}
+ul {
+  padding-top: 40px;
+  max-width: 550px;
+  margin: 0 auto 20px auto;
+  text-align: left;
+  display: block;
+}
+#citacao {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  display: block;
+}
